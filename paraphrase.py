@@ -24,7 +24,6 @@ for i in words:
         newPhrase.append(i)
 
 # Make list to string and print.
-
 print (" ".join(newPhrase))
 
 
